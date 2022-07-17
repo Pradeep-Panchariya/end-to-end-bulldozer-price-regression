@@ -9,3 +9,9 @@ Required python library:
 2. Pandas
 3. Scikit-Learn
 4. Matplotlib
+
+
+Note : Some files are zipped in data folder please unzip it first. 
+
+All the kaggle instruction related to data is written in the jupyter notebook
+Our model predict accuracy on valid dataset is ~22 and when we compare this score in kaggle competition then it comes under 30 rank.
